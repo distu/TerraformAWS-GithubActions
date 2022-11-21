@@ -45,6 +45,7 @@ resource "aws_route_table" "route_table1" {
     Terraform = "true"
   }
 }
+  
 
 # Build route table 2
 resource "aws_route_table" "route_table2" {
